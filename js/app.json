@@ -1,0 +1,65 @@
+//ejemplo de canciones
+{
+	"songs":[
+		{
+			"id":0,
+			"name":"Shoot To Thrill",
+			"artist":"ACDC",
+			"song":"music/ShootToThrill.mp3"
+		},
+		{
+			"id":1,
+			"name":"Surface",
+			"artist":"Aero Chord",
+			"song":"music/AeroChordSurface.mp3"
+		},
+		{
+			"id":2,
+			"name":"Psy or Die",
+			"artist":"Timmy Trumped ft Carnage",
+			"song":"music/PsyorDie.mp3"
+		},
+		{
+			"id":3,
+			"name":"Freaks",
+			"artist":"TJR",
+			"song":"music/Freaks.mp3"
+		},
+		{
+			"id":4,
+			"name":"TJR VINAI SCNDL Vs DJ Snake Lil Jon Bounce Generation Vs Turn Down For What",
+			"artist":"TJR DJ SNAKE",
+			"song":"music/TJRVINAISCNDLVsDJSnakeLilJonBounceGenerationVsTurnDownForWhat(DVLM Mashup).mp3"
+		},
+		{
+			"id":5,
+			"name":"Chin check",
+			"artist":"NWA",
+			"song":"music/Chincheck.mp3"
+		},
+		{
+			"id":6,
+			"name":"Satisfaction",
+			"artist":"Benni Benassi",
+			"song":"music/Satisfaction.mp3"
+		},
+		{
+			"id":7,
+			"name":"DADDY",
+			"artist":"PSY",
+			"song":"music/PSYDADDY(featCLof2NE1)MV.mp3"
+		},
+		{
+			"id":8,
+			"name":"Get Ready Blasterjaxx",
+			"artist":"BOOSTEDKIDS",
+			"song":"music/BOOSTEDKIDS_Get_Ready_Blasterjaxx_Edit.mp3"
+		},
+		{
+			"id":9,
+			"name":"Derezzed",
+			"artist":"Daft Punk",
+			"song":"music/Daft Punk_Derezzed.mp3"
+		}
+	]
+}
